@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello!
 
-<!--
-**AaronC81/AaronC81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at the University of York, and also the Press and Publicity Officer for [HackSoc](https://hacksoc.org).
 
-Here are some ideas to get you started:
+### Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I mainly write code in Ruby! My favourite projects to work on are often developer tools, such as the [Parlour plugin framework](https://github.com/AaronC81/parlour) I created for the [Sorbet](https://sorbet.org) type checker.
+
+Right now I'm learning Rust, as well as trying to get better at electronics and embedded development.
+
+### Contact
+
+If you'd like to get in touch, you can:
+
+  - :email: Send me an [email](mailto:hello@aaronc.cc)
+  - :bird: Find me on [Twitter](https://twitter.com/AaronC81)
+
