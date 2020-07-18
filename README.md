@@ -1,6 +1,6 @@
 ### Hello!
 
-I'm a Computer Science student at the University of York, currently on a placement year at [ETAS](https://www.etas.com/en/), and also the Press and Publicity Officer for [HackSoc](https://hacksoc.org).
+I'm a Computer Science student at the University of York, currently on a placement year at [ETAS](https://www.etas.com/en/) working on [EHOOKS](https://www.etas.com/en/products/ehooks.php), and also the Press and Publicity Officer for [HackSoc](https://hacksoc.org).
 
 ### Development
 
