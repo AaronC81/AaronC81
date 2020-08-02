@@ -13,5 +13,5 @@ Right now I'm learning Rust, as well as trying to get better at electronics and 
 If you'd like to get in touch, you can:
 
   - :email: Send me an [email](mailto:hello@aaronc.cc)
-  - :bird: Find me on [Twitter](https://twitter.com/AaronC81)
+  - :bird: Find me on [Twitter](https://twitter.com/OrangeFlash81)
 
