@@ -1,12 +1,10 @@
 ### Hello!
 
-I'm a Computer Science student at the University of York! I also work part-time at [ETAS](https://www.etas.com/en/) on [EHOOKS](https://www.etas.com/en/products/ehooks.php).
+I'm a Graduate Software Engineer at [ETAS](https://www.etas.com/en/), working on [EHOOKS](https://www.etas.com/en/products/ehooks.php).
 
-### Development
+In my free time I create some side-projects, mainly in Ruby or Rust. Many of these are developer tools, such as the [Parlour plugin framework](https://github.com/AaronC81/parlour) I created for the [Sorbet](https://sorbet.org) type checker.
 
-I mainly write code in Ruby! My favourite projects to work on are often developer tools, such as the [Parlour plugin framework](https://github.com/AaronC81/parlour) I created for the [Sorbet](https://sorbet.org) type checker.
-
-Right now I'm learning Rust, as well as trying to get better at electronics and embedded development.
+I also enjoy electronics and embedded development, with my [Delta Pico graphing calculator](https://github.com/AaronC81/delta-pico) being a particular favourite.
 
 ### Contact
 
