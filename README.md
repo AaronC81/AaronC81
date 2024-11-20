@@ -11,4 +11,4 @@ I also enjoy electronics and embedded development, with my [Delta Pico graphing 
 If you'd like to get in touch, you can:
 
   - :email: Send me an [email](mailto:aaronc20000@gmail.com)
-  - :bird: find me on [Twitter](https://twitter.com/OrangeFlash81), <a rel="me" href="https://ruby.social/@aaronc81">Mastodon</a>, or [Cohost](https://cohost.org/aaronc81)
+  - :bird: find me on [Twitter](https://twitter.com/OrangeFlash81), <a rel="me" href="https://ruby.social/@aaronc81">Mastodon</a>, or [Bluesky](https://bsky.app/profile/aaronc81.bsky.social)
